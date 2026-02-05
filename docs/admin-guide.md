@@ -25,7 +25,7 @@ This guide is for administrators who manage the GateHouse platform. It covers sy
 
 Navigate to `/admin` to access the Administration panel. You must have admin privileges to access this area.
 
-[Screenshot: Admin panel overview]
+![Admin panel overview](screenshots/admin-settings.png)
 
 ### Admin Tab Navigation
 
@@ -51,7 +51,7 @@ To switch tabs, click the desired tab in the navigation panel. The URL updates t
 
 The **Settings** tab (`/admin?tab=settings`) provides high-level configuration for the platform.
 
-[Screenshot: Settings panel with category sidebar]
+![Settings panel](screenshots/admin-settings.png)
 
 ### Settings Categories
 
@@ -66,7 +66,7 @@ Basic system settings including:
 #### AI / LLM
 Configure AI providers for the platform:
 
-[Screenshot: AI/LLM provider settings]
+![AI/LLM provider settings](screenshots/admin-settings.png)
 
 **Supported Providers:**
 - **OpenRouter**: Multi-model API gateway
@@ -114,7 +114,7 @@ Click **Refresh** to reload settings from the server.
 
 The **System Config** tab (`/admin?tab=system-config`) provides access to low-level configuration values.
 
-[Screenshot: System configuration panel]
+![System configuration panel](screenshots/admin-system-config.png)
 
 ### Configuration Categories
 
@@ -170,7 +170,7 @@ The sidebar shows a summary of available LLM models by provider, indicating how 
 
 The **Accounts** tab (`/admin?tab=accounts`) manages user and agent accounts.
 
-[Screenshot: Accounts panel with filters and data table]
+![Accounts panel](screenshots/admin-accounts.png)
 
 ### Account Types
 
@@ -351,7 +351,7 @@ Click a skill to view details at `/admin/skills/:id`.
 
 The **Roles** tab (`/admin?tab=roles`) manages roles and permissions.
 
-[Screenshot: Roles panel with data table]
+![Roles panel](screenshots/admin-roles.png)
 
 ### Understanding Roles and Permissions
 
@@ -440,7 +440,7 @@ Icons in the table indicate which types each role can be assigned to.
 
 The **Access** tab (`/admin?tab=access`) provides a view of all access relationships in the system.
 
-[Screenshot: Access panel with stats and table]
+![Access panel](screenshots/admin-access.png)
 
 ### Access Overview Stats
 
