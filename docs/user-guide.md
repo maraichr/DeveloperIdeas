@@ -52,7 +52,7 @@ After successful authentication, you'll be redirected to the Dashboard.
 
 The Dashboard (`/`) is your home screen and provides an overview of your activity.
 
-[Screenshot: Dashboard overview showing stats cards and recent projects]
+![Dashboard overview](screenshots/dashboard-overview.png)
 
 **Dashboard Elements:**
 
@@ -85,7 +85,7 @@ The Dashboard (`/`) is your home screen and provides an overview of your activit
 
 Navigate to **Projects** (`/projects`) to see all your projects.
 
-[Screenshot: Projects list page with search and filter]
+![Projects list](screenshots/projects-list.png)
 
 **Features:**
 - **Search**: Type in the search box to filter projects by name or description
@@ -110,7 +110,7 @@ Navigate to **Projects** (`/projects`) to see all your projects.
    - **Start from scratch**: Create a blank project
    - **Use a template**: Select from available templates
 
-[Screenshot: Create Project Wizard]
+![Create Project Wizard](screenshots/create-project-wizard.png)
 
 **Project Creation Fields:**
 - **Name** (required): Give your project a descriptive name
@@ -124,7 +124,7 @@ Navigate to **Projects** (`/projects`) to see all your projects.
 
 Click any project to open its detail page (`/projects/:projectId`).
 
-[Screenshot: Project detail page with tabs]
+![Project detail](screenshots/project-detail-overview.png)
 
 The project detail page includes a header with:
 - Project name and description
@@ -197,7 +197,7 @@ The AI Chat feature allows you to have conversations with AI agents who understa
 
 From a project detail page, click the **Chat** tab.
 
-[Screenshot: Chat interface showing conversation list and chat panel]
+![Chat interface](screenshots/project-chat.png)
 
 ### Chat Interface Layout
 
@@ -267,7 +267,7 @@ Workflows are visual automations that orchestrate AI agents, human approvals, an
 
 Navigate to **Workflows** (`/workflows`) to see all workflows.
 
-[Screenshot: Workflows list page]
+![Workflows list](screenshots/workflows-list.png)
 
 **Workflow Card Information:**
 - Workflow name and icon
@@ -295,7 +295,7 @@ Navigate to **Workflows** (`/workflows`) to see all workflows.
 
 The Workflow Builder (`/workflows/:workflowId/edit`) is a visual editor for designing workflows.
 
-[Screenshot: Workflow Builder interface]
+![Workflow Builder](screenshots/workflow-builder.png)
 
 **Interface Components:**
 
@@ -402,7 +402,7 @@ Templates provide pre-configured starting points for projects.
 
 Navigate to **Templates** (`/templates`) to browse available templates.
 
-[Screenshot: Template library page]
+![Template library](screenshots/templates-library.png)
 
 **Page Features:**
 - **Search**: Find templates by name or description
@@ -423,7 +423,7 @@ Each template card shows:
 
 Click any template card to open the preview dialog:
 
-[Screenshot: Template preview dialog]
+![Template preview](screenshots/template-preview.png)
 
 **Preview Contents:**
 - Template name and icon
