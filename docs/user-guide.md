@@ -593,7 +593,7 @@ Navigate to **Notifications** (`/notifications`) to view all notifications.
 If you encounter issues not covered here:
 1. Check with your administrator
 2. Review the Admin Guide for system configuration
-3. Report issues at https://github.com/anthropics/claude-code/issues
+3. Report issues at https://github.com/maraichr/GateHouse/issues
 
 ---
 
